@@ -1,0 +1,15 @@
+This is a copy of MicroEmacs 5.0 C)Copyright 1988-2009 by Daniel M. Lawrence
+
+The goal is to have a playground to play with a text editor.
+Emacs and Vim look too big. And according to cloc, MicroEmacs 5 is
+
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+C++                             65           7577           8325          32206
+C/C++ Header                    21            465            501           6196
+C                                9           1511           4049           5832
+Assembly                         1              0              0             22
+-------------------------------------------------------------------------------
+SUM:                            96           9553          12875          44256
+-------------------------------------------------------------------------------
